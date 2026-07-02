@@ -1,0 +1,1 @@
+Quero que a IA gere uma lista de compras basicas de alimentos no mercado, com o objetivo de garantir o mínimo para atender as necessidades. Considere o seguinte contexto: compra mensal. O conteúdo deve ter formato de lista simples, se puder separar entre café da manha/lanches e refeição principal agradeço. 
